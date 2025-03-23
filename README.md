@@ -4,7 +4,6 @@ Many of my past applications were successful because the team built and maintain
 
 My public github contributions are small frameworks or the building blocks for frameworks that might help other teams take a similar approach.
 
-I’m also currently learning the Unreal games engine and might publish some reusable blueprints or code here.
 
 <!---
 bockelman-scott/bockelman-scott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
